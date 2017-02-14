@@ -2,6 +2,4 @@
 !published_workbook.ipynb
 !preproc_recurrent_communities.ipynb
 !Playspace.ipynb
-!figures**/**
-!.gitignore
 !community_generators.py
