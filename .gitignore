@@ -1,8 +1,5 @@
 *
-!published_workbook.ipynb
-!preproc_recurrent_communities.ipynb
-!Playspace.ipynb
 !results_synthetic_data.ipynb
-!community_generators.py
+!results_real_data.ipynb
 !.gitignore
 !figures**/**
